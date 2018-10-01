@@ -2,6 +2,14 @@ import React, { Component } from 'react';
 import { USER_CONNECTED,USER_DISCONNECTED } from '../constants/SocketActionTypes';
 import PropTypes from 'prop-types';
 
+const formatDate = d => {
+    return new Intl.DateTimeFormat('en-GB', { 
+        year: 'numeric', month: 'numeric', day: 'numeric',
+        hour: 'numeric', minute: 'numeric', second: 'numeric',
+        hour12: false
+    }).format(d)
+}
+
 class Messages extends Component {
     componentDidUpdate(){
         this.scrollToBottom();
@@ -27,26 +35,16 @@ class Messages extends Component {
 
                 switch(m.type){
                     case USER_CONNECTED:
-                        template = (
-                            <span><strong>{m.name}</strong> has connected</span>
-                        )
+                        template = (<span><strong>{m.name}</strong> has connected</span>)
                     break;
                     case USER_DISCONNECTED:
-                        template = (
-                            <span><strong>{m.name}</strong> has disconnected</span>
-                        )
+                        template = (<span><strong>{m.name}</strong> has disconnected</span>)
                     break;
                     default:
-                        const date = new Intl.DateTimeFormat('en-GB', { 
-                            year: 'numeric', month: 'numeric', day: 'numeric',
-                            hour: 'numeric', minute: 'numeric', second: 'numeric',
-                            hour12: false
-                        }).format(m.date)
-                            
                         template = (
                             <div>
                                 <span className='name'><strong>{m.name}</strong></span>
-                                <span className='date'>{date}</span>
+                                <span className='date'>{formatDate(m.date)}</span>
                                 <p>{m.content}</p>
                             </div>
                         )
@@ -54,12 +52,12 @@ class Messages extends Component {
                 }
 
                 return (
-                    <div  className={classNames.join(' ')} key={m.id}>
+                    <div className={classNames.join(' ')} key={m.id}>
                         {template}
                     </div>
                 )
+            })
             }
-            )}
             </div>
         )
     }

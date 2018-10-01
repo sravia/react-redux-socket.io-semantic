@@ -1,7 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
 import RootRouter from './routers/RootRouter';
-import registerServiceWorker from './registerServiceWorker.js';
 import configureStore from './store/configureStore'
 import { Provider } from 'react-redux';
 import 'semantic-ui-css/semantic.min.css';
@@ -15,5 +14,3 @@ render(
     </Provider>,
 	document.getElementById('root')
 );
-
-registerServiceWorker();

@@ -7,12 +7,7 @@ import LoginForm from '../components/LoginForm';
 import PropTypes from 'prop-types';
 
 export class Main extends Component {
-  constructor(props) {
-    super(props);
-    this.onSubmit = this.onSubmit.bind(this);
-  }
-
-  onSubmit(e) {
+  onSubmit = (e) => {
     return this.props.userActions.login(e.name);
   }
 

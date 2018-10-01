@@ -17,22 +17,20 @@ io.on('connection', socket => {
         
         users = users.filter(u => u.id != socket.id)
 
-        const payload = {
+        socket.broadcast.emit('message', {
             type: payloadTypes.USER_DISCONNECTED,
             name: user.name
-        }
-        socket.broadcast.emit('message', payload);
+        });
     })
 
     socket.on('message', data => {
         logger.info(`${data.name} sent message -> ${data.message}`);
 
-        const payload = {
+        socket.broadcast.emit('message', {
             type: payloadTypes.RECEIVE_MESSAGE,
             name: data.name,
             message: data.message
-        }
-        socket.broadcast.emit('message', payload)
+        })
     })
 
     socket.on('join', payload => {
@@ -46,25 +44,22 @@ io.on('connection', socket => {
                 name: payload.name
             })
 
-            const privatePayload = {
+            io.sockets.to(socket.id).emit('message', {
                 type: payloadTypes.LOGIN_SUCCESS,
                 name: payload.name,
                 users: users.map(user => user.name)
-            }
-            io.sockets.to(socket.id).emit('message', privatePayload);
+            });
 
-            const publicPayload = {
+            socket.broadcast.emit('message',{
                 type: payloadTypes.USER_CONNECTED,
                 name: payload.name
-            }
-            socket.broadcast.emit('message',publicPayload)
+            })
             logger.info(`${payload.name} joined`);
         }else{
-            const payload = {
+            io.sockets.to(socket.id).emit('message', {
                 type: payloadTypes.LOGIN_FAILURE,
                 message: errorMessages.NAME_TAKEN
-            }
-            io.sockets.to(socket.id).emit('message', payload);
+            });
             socket.disconnect();
             logger.info(`${payload.name} disconnected`);
         }

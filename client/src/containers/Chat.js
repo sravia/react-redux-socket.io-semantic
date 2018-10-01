@@ -10,18 +10,11 @@ import PropTypes from 'prop-types';
 import * as reduxForm from 'redux-form';
 
 export class Chat extends Component {
-
-    constructor(props) {
-        super(props);
-        this.onSubmit = this.onSubmit.bind(this);
-        this.handleLogout = this.handleLogout.bind(this);
-    }
-
-    handleLogout() {
+    handleLogout = () => {
         this.props.userActions.logout();
     }
 
-    onSubmit(e) {
+    onSubmit = (e) => {
         this.props.socketActions.sendMessage(e.message, this.props.name);
         this.props.reduxForm.reset('messageForm');
     }
