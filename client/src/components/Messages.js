@@ -28,16 +28,15 @@ class Messages extends Component {
             {messages.map(m => {
                 let template;
                 const classNames = ['message']
-
-                if(m.type === USER_CONNECTED) classNames.push('connected')
-                if(m.type === USER_DISCONNECTED) classNames.push('disconnected')
                 name === m.name ? classNames.push('personal') : classNames.push('public')
 
                 switch(m.type){
                     case USER_CONNECTED:
+                        classNames.push('connected')
                         template = (<span><strong>{m.name}</strong> has connected</span>)
                     break;
                     case USER_DISCONNECTED:
+                        classNames.push('disconnected')
                         template = (<span><strong>{m.name}</strong> has disconnected</span>)
                     break;
                     default:
