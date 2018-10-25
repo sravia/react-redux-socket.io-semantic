@@ -1,0 +1,20 @@
+options:
+  merge-default-rules: true
+  formatter: stylish
+  max-warnings: 0
+files:
+  include: './src/**/*.s+(a|c)ss'
+rules:
+  property-sort-order: 0
+
+  indentation:
+    - 0
+    - size: 4
+
+  force-element-nesting: 0
+  force-pseudo-nesting: 0
+  placeholder-in-extend: 'off'
+
+  space-around-operator:
+    - 2
+    - include: true

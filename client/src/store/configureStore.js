@@ -1,10 +1,7 @@
-import rootReducer from '../reducers/root'
-import { createStore,applyMiddleware} from 'redux';
-import socketMiddleware from '../middleware/sockets';
+import { createStore, applyMiddleware } from 'redux';
 import thunk from 'redux-thunk';
+import rootReducer from '../reducers/root';
+import socketMiddleware from '../middleware/sockets';
 
-export default () => {
-  return createStore(
-    rootReducer,
-    applyMiddleware(thunk,socketMiddleware()))
-}
+export default () =>
+  createStore(rootReducer, applyMiddleware(thunk, socketMiddleware()));
