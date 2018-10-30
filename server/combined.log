@@ -1,0 +1,457 @@
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-01 10:33:10"}
+{"message":"aivars is trying to join","level":"info","timestamp":"2018-10-01 10:33:26"}
+{"message":"aivars joined","level":"info","timestamp":"2018-10-01 10:33:26"}
+{"message":"ig is trying to join","level":"info","timestamp":"2018-10-01 10:33:27"}
+{"message":"ig joined","level":"info","timestamp":"2018-10-01 10:33:27"}
+{"message":"ig sent message -> asd","level":"info","timestamp":"2018-10-01 10:33:29"}
+{"message":"aivars sent message -> awd","level":"info","timestamp":"2018-10-01 10:33:31"}
+{"message":"aivars - disconnected ","level":"info","timestamp":"2018-10-01 10:33:33"}
+{"message":"ig - disconnected ","level":"info","timestamp":"2018-10-01 10:33:34"}
+{"message":"Shutting down","level":"error","timestamp":"2018-10-01 10:33:38"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-01 10:40:22"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-01 10:54:23"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-01 10:55:28"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-01 10:55:29"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-01 10:55:35"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-01 11:03:33"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-01 11:03:33"}
+{"message":"asd sent message -> wdasd","level":"info","timestamp":"2018-10-01 11:03:34"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-01 11:03:46"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-01 11:10:58"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-01 11:10:58"}
+{"message":"asd sent message -> awdasd","level":"info","timestamp":"2018-10-01 11:10:59"}
+{"message":"asd sent message -> sda","level":"info","timestamp":"2018-10-01 11:11:01"}
+{"message":"Shutting down","level":"error","timestamp":"2018-10-01 11:30:42"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-01 11:30:57"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-01 11:30:58"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-01 11:30:58"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-01 11:31:07"}
+{"message":"asd disconnected","level":"info","timestamp":"2018-10-01 11:31:07"}
+{"message":"asd2 is trying to join","level":"info","timestamp":"2018-10-01 11:31:08"}
+{"message":"asd2 joined","level":"info","timestamp":"2018-10-01 11:31:08"}
+{"message":"asd2 sent message -> asd","level":"info","timestamp":"2018-10-01 11:31:10"}
+{"message":"asd2 - disconnected ","level":"info","timestamp":"2018-10-01 11:31:11"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-01 11:31:12"}
+{"message":"Shutting down","level":"error","timestamp":"2018-10-01 11:31:14"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-01 12:48:27"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-01 12:48:41"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-01 12:48:41"}
+{"message":"qwe is trying to join","level":"info","timestamp":"2018-10-01 12:48:53"}
+{"message":"qwe joined","level":"info","timestamp":"2018-10-01 12:48:53"}
+{"message":"qwe sent message -> asdasd","level":"info","timestamp":"2018-10-01 12:48:54"}
+{"message":"qwe - disconnected ","level":"info","timestamp":"2018-10-01 12:49:04"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-01 12:49:14"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-01 12:49:15"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-01 12:49:15"}
+{"message":"wdasd is trying to join","level":"info","timestamp":"2018-10-01 12:49:17"}
+{"message":"wdasd joined","level":"info","timestamp":"2018-10-01 12:49:17"}
+{"message":"wdasd sent message -> asd","level":"info","timestamp":"2018-10-01 12:49:19"}
+{"message":"wdasd - disconnected ","level":"info","timestamp":"2018-10-01 12:49:21"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-01 12:49:43"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-01 12:49:46"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-01 12:49:46"}
+{"message":"wd is trying to join","level":"info","timestamp":"2018-10-01 12:49:49"}
+{"message":"wd joined","level":"info","timestamp":"2018-10-01 12:49:49"}
+{"message":"wd sent message -> asd","level":"info","timestamp":"2018-10-01 12:49:50"}
+{"message":"Shutting down","level":"error","timestamp":"2018-10-01 12:50:03"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-02 13:55:49"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-02 13:56:13"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-02 13:56:13"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-02 13:56:21"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-02 13:56:24"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-02 13:56:24"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-02 13:56:27"}
+{"message":"sdf is trying to join","level":"info","timestamp":"2018-10-02 13:58:29"}
+{"message":"sdf joined","level":"info","timestamp":"2018-10-02 13:58:29"}
+{"message":"sdf - disconnected ","level":"info","timestamp":"2018-10-02 13:58:36"}
+{"message":"Shutting down","level":"error","timestamp":"2018-10-03 09:13:02"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-03 09:14:12"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-03 09:19:33"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-03 09:19:33"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-03 09:19:59"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-03 09:20:02"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-03 09:20:02"}
+{"message":"asd sent message -> asdas","level":"info","timestamp":"2018-10-03 09:20:03"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-03 09:20:12"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-03 09:20:15"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-03 09:20:15"}
+{"message":"asd sent message -> wasd","level":"info","timestamp":"2018-10-03 09:20:17"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-03 09:20:28"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-03 09:20:30"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-03 09:20:30"}
+{"message":"asd sent message -> wdasd","level":"info","timestamp":"2018-10-03 09:20:32"}
+{"message":"asd sent message -> asd","level":"info","timestamp":"2018-10-03 09:20:38"}
+{"message":"asd sent message -> wd","level":"info","timestamp":"2018-10-03 09:20:40"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-03 09:20:43"}
+{"message":"Shutting down","level":"error","timestamp":"2018-10-03 11:17:13"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:10:35"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:11:17"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:11:17"}
+{"message":"asd sent message -> wd","level":"info","timestamp":"2018-10-30 15:11:26"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:11:34"}
+{"message":"qwe is trying to join","level":"info","timestamp":"2018-10-30 15:11:37"}
+{"message":"qwe joined","level":"info","timestamp":"2018-10-30 15:11:37"}
+{"message":"qwe - disconnected ","level":"info","timestamp":"2018-10-30 15:12:05"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:12:12"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:12:12"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:12:28"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:12:30"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:12:30"}
+{"message":"asd sent message -> wdw","level":"info","timestamp":"2018-10-30 15:12:32"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:13:41"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:13:56"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:13:56"}
+{"message":"asd sent message -> wd","level":"info","timestamp":"2018-10-30 15:13:59"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:14:12"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:14:17"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:14:17"}
+{"message":"asd sent message -> asd","level":"info","timestamp":"2018-10-30 15:14:20"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:14:42"}
+{"message":"wd is trying to join","level":"info","timestamp":"2018-10-30 15:15:04"}
+{"message":"wd joined","level":"info","timestamp":"2018-10-30 15:15:04"}
+{"message":"wd sent message -> asd","level":"info","timestamp":"2018-10-30 15:15:06"}
+{"message":"wd - disconnected ","level":"info","timestamp":"2018-10-30 15:15:26"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:15:27"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:15:27"}
+{"message":"asd sent message -> wd","level":"info","timestamp":"2018-10-30 15:15:28"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:15:48"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:15:50"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:15:50"}
+{"message":"asd sent message -> wdasd","level":"info","timestamp":"2018-10-30 15:15:51"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:15:54"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:16:01"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:16:01"}
+{"message":"asd sent message -> asd","level":"info","timestamp":"2018-10-30 15:16:02"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:16:06"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:16:07"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:16:07"}
+{"message":"asd sent message -> asd","level":"info","timestamp":"2018-10-30 15:16:09"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:18:03"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:18:04"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:18:04"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:18:36"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:18:37"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:18:37"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:18:49"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:19:19"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:19:19"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:21:15"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:21:41"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:21:41"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:21:49"}
+{"message":"asd disconnected","level":"info","timestamp":"2018-10-30 15:21:49"}
+{"message":"qwe is trying to join","level":"info","timestamp":"2018-10-30 15:21:52"}
+{"message":"qwe joined","level":"info","timestamp":"2018-10-30 15:21:52"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:22:04"}
+{"message":"asd disconnected","level":"info","timestamp":"2018-10-30 15:22:04"}
+{"message":"asdq is trying to join","level":"info","timestamp":"2018-10-30 15:22:05"}
+{"message":"asdq joined","level":"info","timestamp":"2018-10-30 15:22:05"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:22:11"}
+{"message":"qwe - disconnected ","level":"info","timestamp":"2018-10-30 15:22:22"}
+{"message":"asdq - disconnected ","level":"info","timestamp":"2018-10-30 15:22:35"}
+{"message":"asdq is trying to join","level":"info","timestamp":"2018-10-30 15:22:35"}
+{"message":"asdq joined","level":"info","timestamp":"2018-10-30 15:22:35"}
+{"message":"asdq - disconnected ","level":"info","timestamp":"2018-10-30 15:22:42"}
+{"message":"qq is trying to join","level":"info","timestamp":"2018-10-30 15:22:43"}
+{"message":"qq joined","level":"info","timestamp":"2018-10-30 15:22:43"}
+{"message":"qq sent message -> ass","level":"info","timestamp":"2018-10-30 15:22:46"}
+{"message":"qq - disconnected ","level":"info","timestamp":"2018-10-30 15:24:28"}
+{"message":"qq is trying to join","level":"info","timestamp":"2018-10-30 15:24:31"}
+{"message":"qq joined","level":"info","timestamp":"2018-10-30 15:24:31"}
+{"message":"qq - disconnected ","level":"info","timestamp":"2018-10-30 15:25:01"}
+{"message":"qq is trying to join","level":"info","timestamp":"2018-10-30 15:25:02"}
+{"message":"qq joined","level":"info","timestamp":"2018-10-30 15:25:02"}
+{"message":"qq - disconnected ","level":"info","timestamp":"2018-10-30 15:25:57"}
+{"message":"qq is trying to join","level":"info","timestamp":"2018-10-30 15:25:58"}
+{"message":"qq joined","level":"info","timestamp":"2018-10-30 15:25:58"}
+{"message":"qq - disconnected ","level":"info","timestamp":"2018-10-30 15:29:13"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:35:53"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:35:53"}
+{"message":"asd sent message -> wd","level":"info","timestamp":"2018-10-30 15:35:56"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:36:16"}
+{"message":"wd is trying to join","level":"info","timestamp":"2018-10-30 15:36:17"}
+{"message":"wd joined","level":"info","timestamp":"2018-10-30 15:36:17"}
+{"message":"wd sent message -> asd","level":"info","timestamp":"2018-10-30 15:36:19"}
+{"message":"wd - disconnected ","level":"info","timestamp":"2018-10-30 15:36:44"}
+{"message":"qw is trying to join","level":"info","timestamp":"2018-10-30 15:36:45"}
+{"message":"qw joined","level":"info","timestamp":"2018-10-30 15:36:45"}
+{"message":"qw sent message -> ds","level":"info","timestamp":"2018-10-30 15:36:47"}
+{"message":"qw sent message -> dddd","level":"info","timestamp":"2018-10-30 15:36:48"}
+{"message":"qw sent message -> w","level":"info","timestamp":"2018-10-30 15:36:49"}
+{"message":"qw sent message -> w","level":"info","timestamp":"2018-10-30 15:36:50"}
+{"message":"qw sent message -> d","level":"info","timestamp":"2018-10-30 15:36:50"}
+{"message":"qw sent message -> s","level":"info","timestamp":"2018-10-30 15:36:51"}
+{"message":"qw sent message -> w","level":"info","timestamp":"2018-10-30 15:36:52"}
+{"message":"qw - disconnected ","level":"info","timestamp":"2018-10-30 15:37:12"}
+{"message":"w is trying to join","level":"info","timestamp":"2018-10-30 15:37:16"}
+{"message":"w joined","level":"info","timestamp":"2018-10-30 15:37:16"}
+{"message":"w - disconnected ","level":"info","timestamp":"2018-10-30 15:37:37"}
+{"message":"w is trying to join","level":"info","timestamp":"2018-10-30 15:37:38"}
+{"message":"w joined","level":"info","timestamp":"2018-10-30 15:37:38"}
+{"message":"w - disconnected ","level":"info","timestamp":"2018-10-30 15:38:02"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 15:39:27"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 15:39:27"}
+{"message":"asd sent message -> wdw","level":"info","timestamp":"2018-10-30 15:39:29"}
+{"message":"aa is trying to join","level":"info","timestamp":"2018-10-30 15:39:44"}
+{"message":"aa joined","level":"info","timestamp":"2018-10-30 15:39:44"}
+{"message":"aa - disconnected ","level":"info","timestamp":"2018-10-30 15:40:19"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 15:40:19"}
+{"message":"w is trying to join","level":"info","timestamp":"2018-10-30 15:40:31"}
+{"message":"w joined","level":"info","timestamp":"2018-10-30 15:40:31"}
+{"message":"d is trying to join","level":"info","timestamp":"2018-10-30 15:40:34"}
+{"message":"d joined","level":"info","timestamp":"2018-10-30 15:40:34"}
+{"message":"w - disconnected ","level":"info","timestamp":"2018-10-30 15:40:50"}
+{"message":"d - disconnected ","level":"info","timestamp":"2018-10-30 15:40:50"}
+{"message":"w is trying to join","level":"info","timestamp":"2018-10-30 15:40:51"}
+{"message":"w joined","level":"info","timestamp":"2018-10-30 15:40:51"}
+{"message":"d is trying to join","level":"info","timestamp":"2018-10-30 15:40:53"}
+{"message":"d joined","level":"info","timestamp":"2018-10-30 15:40:53"}
+{"message":"d - disconnected ","level":"info","timestamp":"2018-10-30 15:41:39"}
+{"message":"w - disconnected ","level":"info","timestamp":"2018-10-30 15:41:39"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:42:22"}
+{"message":"as is trying to join","level":"info","timestamp":"2018-10-30 15:42:51"}
+{"message":"as joined","level":"info","timestamp":"2018-10-30 15:42:51"}
+{"message":"w is trying to join","level":"info","timestamp":"2018-10-30 15:43:20"}
+{"message":"w joined","level":"info","timestamp":"2018-10-30 15:43:20"}
+{"message":"as - disconnected ","level":"info","timestamp":"2018-10-30 15:43:21"}
+{"message":"d is trying to join","level":"info","timestamp":"2018-10-30 15:43:23"}
+{"message":"d joined","level":"info","timestamp":"2018-10-30 15:43:23"}
+{"message":"w - disconnected ","level":"info","timestamp":"2018-10-30 15:43:47"}
+{"message":"d - disconnected ","level":"info","timestamp":"2018-10-30 15:43:47"}
+{"message":"w is trying to join","level":"info","timestamp":"2018-10-30 15:43:50"}
+{"message":"w joined","level":"info","timestamp":"2018-10-30 15:43:50"}
+{"message":"d is trying to join","level":"info","timestamp":"2018-10-30 15:43:53"}
+{"message":"d joined","level":"info","timestamp":"2018-10-30 15:43:53"}
+{"message":"d - disconnected ","level":"info","timestamp":"2018-10-30 15:43:58"}
+{"message":"w - disconnected ","level":"info","timestamp":"2018-10-30 15:43:58"}
+{"message":"d is trying to join","level":"info","timestamp":"2018-10-30 15:44:03"}
+{"message":"d joined","level":"info","timestamp":"2018-10-30 15:44:03"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 15:44:04"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 15:44:04"}
+{"message":"d - disconnected ","level":"info","timestamp":"2018-10-30 15:44:14"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 15:44:14"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:45:50"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:45:53"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:47:21"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:47:22"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:47:29"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:47:31"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:47:49"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:47:54"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:48:32"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:48:36"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:48:36"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:48:43"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:48:56"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:48:57"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:48:57"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:48:59"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:49:00"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:49:00"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:49:00"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:49:02"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:49:02"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:49:08"}
+{"message":"undefined disconnected","level":"info","timestamp":"2018-10-30 15:49:08"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:49:11"}
+{"message":"undefined disconnected","level":"info","timestamp":"2018-10-30 15:49:11"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:49:12"}
+{"message":"undefined disconnected","level":"info","timestamp":"2018-10-30 15:49:12"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:49:15"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:49:30"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:49:30"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:50:39"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:50:43"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:50:43"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:52:11"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:52:14"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:52:14"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:53:43"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:53:44"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:53:44"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:53:49"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:53:50"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:53:50"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:54:01"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:54:03"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:54:03"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:54:13"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:54:14"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:54:14"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:54:14"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:54:16"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:54:16"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:54:37"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:54:39"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:54:39"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 15:59:07"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:59:08"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:59:08"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:59:19"}
+{"message":"undefined is trying to join","level":"info","timestamp":"2018-10-30 15:59:21"}
+{"message":"undefined joined","level":"info","timestamp":"2018-10-30 15:59:21"}
+{"message":"undefined - disconnected ","level":"info","timestamp":"2018-10-30 15:59:34"}
+{"message":"d is trying to join","level":"info","timestamp":"2018-10-30 15:59:37"}
+{"message":"d joined","level":"info","timestamp":"2018-10-30 15:59:37"}
+{"message":"f is trying to join","level":"info","timestamp":"2018-10-30 15:59:44"}
+{"message":"f joined","level":"info","timestamp":"2018-10-30 15:59:44"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:00:26"}
+{"message":"f is trying to join","level":"info","timestamp":"2018-10-30 16:00:26"}
+{"message":"f joined","level":"info","timestamp":"2018-10-30 16:00:26"}
+{"message":"d is trying to join","level":"info","timestamp":"2018-10-30 16:00:27"}
+{"message":"d joined","level":"info","timestamp":"2018-10-30 16:00:27"}
+{"message":"d - disconnected ","level":"info","timestamp":"2018-10-30 16:00:28"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:00:30"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:00:30"}
+{"message":"f - disconnected ","level":"info","timestamp":"2018-10-30 16:00:32"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:00:33"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:00:37"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:00:39"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:00:39"}
+{"message":"b is trying to join","level":"info","timestamp":"2018-10-30 16:00:42"}
+{"message":"b joined","level":"info","timestamp":"2018-10-30 16:00:42"}
+{"message":"undefined sent message -> asd","level":"info","timestamp":"2018-10-30 16:00:45"}
+{"message":"b - disconnected ","level":"info","timestamp":"2018-10-30 16:01:36"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:01:36"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 16:01:47"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 16:01:47"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 16:02:14"}
+{"message":"s is trying to join","level":"info","timestamp":"2018-10-30 16:02:25"}
+{"message":"s joined","level":"info","timestamp":"2018-10-30 16:02:25"}
+{"message":"s - disconnected ","level":"info","timestamp":"2018-10-30 16:02:55"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:02:58"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:02:58"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:04:14"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:04:16"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:04:16"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:04:42"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:04:44"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:04:44"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:05:10"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:05:42"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:05:42"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:05:52"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:05:54"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:05:54"}
+{"message":"b is trying to join","level":"info","timestamp":"2018-10-30 16:05:58"}
+{"message":"b joined","level":"info","timestamp":"2018-10-30 16:05:58"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:06:14"}
+{"message":"b - disconnected ","level":"info","timestamp":"2018-10-30 16:06:14"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:06:35"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:06:35"}
+{"message":"b is trying to join","level":"info","timestamp":"2018-10-30 16:06:38"}
+{"message":"b joined","level":"info","timestamp":"2018-10-30 16:06:38"}
+{"message":"[object Object] sent message -> asd","level":"info","timestamp":"2018-10-30 16:06:40"}
+{"message":"b - disconnected ","level":"info","timestamp":"2018-10-30 16:07:05"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:07:05"}
+{"message":"asd is trying to join","level":"info","timestamp":"2018-10-30 16:07:07"}
+{"message":"asd joined","level":"info","timestamp":"2018-10-30 16:07:07"}
+{"message":"[object Object] sent message -> wd","level":"info","timestamp":"2018-10-30 16:07:08"}
+{"message":"asd - disconnected ","level":"info","timestamp":"2018-10-30 16:07:25"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:07:35"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:07:35"}
+{"message":"undefined sent message -> wd","level":"info","timestamp":"2018-10-30 16:07:36"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:08:13"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:08:13"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:08:13"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:08:13"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:08:17"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:08:19"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:08:19"}
+{"message":"undefined sent message -> sd","level":"info","timestamp":"2018-10-30 16:08:21"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:09:40"}
+{"message":"as is trying to join","level":"info","timestamp":"2018-10-30 16:09:42"}
+{"message":"as joined","level":"info","timestamp":"2018-10-30 16:09:42"}
+{"message":"undefined sent message -> wd","level":"info","timestamp":"2018-10-30 16:09:43"}
+{"message":"as - disconnected ","level":"info","timestamp":"2018-10-30 16:10:20"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:10:33"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:10:33"}
+{"message":"undefined sent message -> sd","level":"info","timestamp":"2018-10-30 16:10:34"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:10:50"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:10:51"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:10:51"}
+{"message":"b is trying to join","level":"info","timestamp":"2018-10-30 16:10:53"}
+{"message":"b joined","level":"info","timestamp":"2018-10-30 16:10:53"}
+{"message":"undefined sent message -> wdw","level":"info","timestamp":"2018-10-30 16:10:55"}
+{"message":"undefined sent message -> asd","level":"info","timestamp":"2018-10-30 16:10:57"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:11:50"}
+{"message":"b - disconnected ","level":"info","timestamp":"2018-10-30 16:11:50"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:11:52"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:11:52"}
+{"message":"b is trying to join","level":"info","timestamp":"2018-10-30 16:11:54"}
+{"message":"b joined","level":"info","timestamp":"2018-10-30 16:11:54"}
+{"message":"undefined sent message -> wdwd","level":"info","timestamp":"2018-10-30 16:11:56"}
+{"message":"b - disconnected ","level":"info","timestamp":"2018-10-30 16:13:10"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:13:10"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:13:24"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:13:24"}
+{"message":"undefined sent message -> wd","level":"info","timestamp":"2018-10-30 16:13:26"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:14:21"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:14:23"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:14:23"}
+{"message":"undefined sent message -> wd","level":"info","timestamp":"2018-10-30 16:14:25"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:14:34"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:14:46"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:14:46"}
+{"message":"undefined sent message -> asd","level":"info","timestamp":"2018-10-30 16:14:48"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:15:52"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:15:54"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:15:54"}
+{"message":"undefined sent message -> wd","level":"info","timestamp":"2018-10-30 16:15:55"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:16:09"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:16:22"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:16:22"}
+{"message":"undefined sent message -> a","level":"info","timestamp":"2018-10-30 16:16:28"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:17:03"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:17:04"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:17:04"}
+{"message":"undefined sent message -> wd","level":"info","timestamp":"2018-10-30 16:17:07"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:17:46"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:17:48"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:17:48"}
+{"message":"undefined sent message -> wd","level":"info","timestamp":"2018-10-30 16:17:50"}
+{"message":"b is trying to join","level":"info","timestamp":"2018-10-30 16:18:15"}
+{"message":"b joined","level":"info","timestamp":"2018-10-30 16:18:15"}
+{"message":"undefined sent message -> wdasd","level":"info","timestamp":"2018-10-30 16:18:16"}
+{"message":"undefined sent message -> we","level":"info","timestamp":"2018-10-30 16:18:19"}
+{"message":"b - disconnected ","level":"info","timestamp":"2018-10-30 16:18:25"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:18:25"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:20:06"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:20:06"}
+{"message":"undefined sent message -> asd","level":"info","timestamp":"2018-10-30 16:20:08"}
+{"message":"wd is trying to join","level":"info","timestamp":"2018-10-30 16:20:10"}
+{"message":"wd joined","level":"info","timestamp":"2018-10-30 16:20:10"}
+{"message":"undefined sent message -> asd","level":"info","timestamp":"2018-10-30 16:20:12"}
+{"message":"wd - disconnected ","level":"info","timestamp":"2018-10-30 16:21:15"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:21:15"}
+{"message":"a is trying to join","level":"info","timestamp":"2018-10-30 16:35:45"}
+{"message":"a joined","level":"info","timestamp":"2018-10-30 16:35:45"}
+{"message":"undefined sent message -> asd","level":"info","timestamp":"2018-10-30 16:35:46"}
+{"message":"a - disconnected ","level":"info","timestamp":"2018-10-30 16:35:48"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:37:35"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:38:12"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:38:16"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:38:55"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:39:02"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:39:09"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:39:17"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:40:01"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:40:05"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:40:07"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:40:08"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:40:16"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:40:17"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:40:19"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:41:30"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:42:23"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:42:26"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:42:56"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:42:57"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:43:24"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:44:35"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:44:55"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:45:07"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:45:13"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:45:26"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:45:29"}
+{"message":"Listening on 3000","level":"info","timestamp":"2018-10-30 16:45:35"}

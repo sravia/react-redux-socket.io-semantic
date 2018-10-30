@@ -22,16 +22,10 @@ export default function socketMiddleware() {
         socket = io.connect('http://localhost:3000');
 
         socket.on('connect', () => {
-          console.log('Connected');
           socket.emit('join', { name: action.name });
         });
 
-        socket.on('disconnect', payload => {
-          console.log('Disconnected', payload);
-        });
-
         socket.on('connect_error', () => {
-          console.log('Connection error');
           store.dispatch({
             type: LOGIN_FAILURE,
             message: 'Server unavailable'
@@ -51,7 +45,7 @@ export default function socketMiddleware() {
             case LOGIN_SUCCESS:
               store.dispatch({
                 type: LOGIN_SUCCESS,
-                name: payload.name
+                user: payload.user
               });
 
               store.dispatch({
@@ -62,20 +56,20 @@ export default function socketMiddleware() {
             case USER_CONNECTED:
               store.dispatch({
                 type: USER_CONNECTED,
-                name: payload.name
+                user: payload.user
               });
               break;
             case USER_DISCONNECTED:
               store.dispatch({
                 type: USER_DISCONNECTED,
-                name: payload.name
+                user: payload.user
               });
               break;
             case RECEIVE_MESSAGE:
               store.dispatch({
                 type: RECEIVE_MESSAGE,
                 messageType: payload.type,
-                name: payload.name,
+                user: payload.user,
                 message: payload.message
               });
               break;
@@ -92,7 +86,7 @@ export default function socketMiddleware() {
       }
       case SEND_MESSAGE: {
         socket.send({
-          name: action.name,
+          user: action.user,
           message: action.message
         });
         break;

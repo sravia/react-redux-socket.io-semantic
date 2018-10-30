@@ -6,7 +6,7 @@ import {
 } from '../constants/UserActionTypes';
 
 export const initialState = {
-  name: '',
+  user: {},
   error: '',
   authorized: false
 };
@@ -28,7 +28,7 @@ export default (state = initialState, action) => {
     case LOGIN_SUCCESS:
       return {
         ...state,
-        name: action.name,
+        user: action.user,
         error: '',
         authorized: true
       };
@@ -36,7 +36,7 @@ export default (state = initialState, action) => {
       return {
         ...state,
         error: '',
-        name: '',
+        user: {},
         authorized: false
       };
     default:

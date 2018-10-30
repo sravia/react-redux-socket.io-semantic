@@ -3,5 +3,8 @@ import thunk from 'redux-thunk';
 import rootReducer from '../reducers/root';
 import socketMiddleware from '../middleware/sockets';
 
-export default () =>
-  createStore(rootReducer, applyMiddleware(thunk, socketMiddleware()));
+const store = createStore(
+  rootReducer,
+  applyMiddleware(thunk, socketMiddleware())
+);
+export default store;

@@ -1,17 +1,17 @@
 import { SEND_MESSAGE, RECEIVE_MESSAGE } from '../constants/SocketActionTypes';
 
-export const sendMessage = (message, name) => dispatch => {
+export const sendMessage = (message, user) => dispatch => {
   dispatch({
     type: SEND_MESSAGE,
     message,
-    name
+    user
   });
 };
 
-export const receiveMessage = (message, name) => dispatch => {
+export const receiveMessage = (message, user) => dispatch => {
   dispatch({
     type: RECEIVE_MESSAGE,
     message,
-    name
+    user
   });
 };

@@ -2,7 +2,7 @@ import React from 'react';
 import { Field, reduxForm } from 'redux-form';
 import PropTypes from 'prop-types';
 
-const LoginForm = props => {
+const Login = props => {
   const { serverError, handleSubmit, pristine, submitting, onSubmit } = props;
   return (
     <div>
@@ -28,7 +28,7 @@ const LoginForm = props => {
   );
 };
 
-LoginForm.propTypes = {
+Login.propTypes = {
   handleSubmit: PropTypes.func,
   onSubmit: PropTypes.func,
   pristine: PropTypes.bool,
@@ -36,7 +36,7 @@ LoginForm.propTypes = {
   serverError: PropTypes.string
 };
 
-LoginForm.defaultProps = {
+Login.defaultProps = {
   handleSubmit: null,
   onSubmit: null,
   pristine: false,
@@ -46,4 +46,4 @@ LoginForm.defaultProps = {
 
 export default reduxForm({
   form: 'loginForm'
-})(LoginForm);
+})(Login);

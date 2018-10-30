@@ -21,11 +21,11 @@ export default (state = initialState, action) => {
           {
             id: state.messages.length + 1,
             type: USER_DISCONNECTED,
-            name: action.name,
+            user: action.user,
             date: new Date()
           }
         ],
-        users: state.users.filter(name => name !== action.name)
+        users: state.users.filter(user => user.name !== action.name)
       };
     case USER_CONNECTED:
       return {
@@ -35,11 +35,11 @@ export default (state = initialState, action) => {
           {
             id: state.messages.length + 1,
             type: USER_CONNECTED,
-            name: action.name,
+            user: action.user,
             date: new Date()
           }
         ],
-        users: [...state.users, action.name]
+        users: [...state.users, action.user]
       };
     case RECEIVE_MESSAGE:
     case SEND_MESSAGE:
@@ -51,7 +51,7 @@ export default (state = initialState, action) => {
             id: state.messages.length + 1,
             type: RECEIVE_MESSAGE,
             content: action.message,
-            name: action.name,
+            user: action.user,
             date: new Date()
           }
         ]

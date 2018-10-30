@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 const Users = props => {
   const { users } = props;
-  const userList = users.map(user => <li key={user.name}>{user}</li>);
+  const userList = users.map(user => <li key={`${user.id}`}>{user.name}</li>);
   return (
     <div>
       <h1>Online users</h1>
